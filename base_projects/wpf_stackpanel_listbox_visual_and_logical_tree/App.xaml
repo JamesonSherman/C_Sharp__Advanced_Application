@@ -1,0 +1,9 @@
+﻿<Application x:Class="wpf_stackpanel_listbox_visual_and_logical_tree.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:wpf_stackpanel_listbox_visual_and_logical_tree"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
