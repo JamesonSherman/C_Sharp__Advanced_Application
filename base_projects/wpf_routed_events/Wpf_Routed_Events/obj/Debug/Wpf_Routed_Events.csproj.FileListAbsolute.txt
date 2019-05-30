@@ -1,0 +1,14 @@
+C:\Users\sherman\Desktop\c#_learning\wpf_routed_events\Wpf_Routed_Events\bin\Debug\Wpf_Routed_Events.exe.config
+C:\Users\sherman\Desktop\c#_learning\wpf_routed_events\Wpf_Routed_Events\bin\Debug\Wpf_Routed_Events.exe
+C:\Users\sherman\Desktop\c#_learning\wpf_routed_events\Wpf_Routed_Events\bin\Debug\Wpf_Routed_Events.pdb
+C:\Users\sherman\Desktop\c#_learning\wpf_routed_events\Wpf_Routed_Events\obj\Debug\MainWindow.g.cs
+C:\Users\sherman\Desktop\c#_learning\wpf_routed_events\Wpf_Routed_Events\obj\Debug\App.g.cs
+C:\Users\sherman\Desktop\c#_learning\wpf_routed_events\Wpf_Routed_Events\obj\Debug\Wpf_Routed_Events_MarkupCompile.cache
+C:\Users\sherman\Desktop\c#_learning\wpf_routed_events\Wpf_Routed_Events\obj\Debug\Wpf_Routed_Events_MarkupCompile.lref
+C:\Users\sherman\Desktop\c#_learning\wpf_routed_events\Wpf_Routed_Events\obj\Debug\MainWindow.baml
+C:\Users\sherman\Desktop\c#_learning\wpf_routed_events\Wpf_Routed_Events\obj\Debug\Wpf_Routed_Events.g.resources
+C:\Users\sherman\Desktop\c#_learning\wpf_routed_events\Wpf_Routed_Events\obj\Debug\Wpf_Routed_Events.Properties.Resources.resources
+C:\Users\sherman\Desktop\c#_learning\wpf_routed_events\Wpf_Routed_Events\obj\Debug\Wpf_Routed_Events.csproj.GenerateResource.cache
+C:\Users\sherman\Desktop\c#_learning\wpf_routed_events\Wpf_Routed_Events\obj\Debug\Wpf_Routed_Events.csproj.CoreCompileInputs.cache
+C:\Users\sherman\Desktop\c#_learning\wpf_routed_events\Wpf_Routed_Events\obj\Debug\Wpf_Routed_Events.exe
+C:\Users\sherman\Desktop\c#_learning\wpf_routed_events\Wpf_Routed_Events\obj\Debug\Wpf_Routed_Events.pdb
