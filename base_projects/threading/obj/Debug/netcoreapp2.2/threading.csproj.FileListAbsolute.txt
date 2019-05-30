@@ -1,0 +1,11 @@
+C:\Users\sherman\Desktop\c#_learning\threading\bin\Debug\netcoreapp2.2\threading.deps.json
+C:\Users\sherman\Desktop\c#_learning\threading\bin\Debug\netcoreapp2.2\threading.runtimeconfig.json
+C:\Users\sherman\Desktop\c#_learning\threading\bin\Debug\netcoreapp2.2\threading.runtimeconfig.dev.json
+C:\Users\sherman\Desktop\c#_learning\threading\bin\Debug\netcoreapp2.2\threading.dll
+C:\Users\sherman\Desktop\c#_learning\threading\bin\Debug\netcoreapp2.2\threading.pdb
+C:\Users\sherman\Desktop\c#_learning\threading\obj\Debug\netcoreapp2.2\threading.csprojAssemblyReference.cache
+C:\Users\sherman\Desktop\c#_learning\threading\obj\Debug\netcoreapp2.2\threading.csproj.CoreCompileInputs.cache
+C:\Users\sherman\Desktop\c#_learning\threading\obj\Debug\netcoreapp2.2\threading.AssemblyInfoInputs.cache
+C:\Users\sherman\Desktop\c#_learning\threading\obj\Debug\netcoreapp2.2\threading.AssemblyInfo.cs
+C:\Users\sherman\Desktop\c#_learning\threading\obj\Debug\netcoreapp2.2\threading.dll
+C:\Users\sherman\Desktop\c#_learning\threading\obj\Debug\netcoreapp2.2\threading.pdb
