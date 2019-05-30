@@ -30,5 +30,14 @@ namespace data_types {
 
             Console.WriteLine("sum of" + num1);
         }
+    sbyte mySbyte = 100;                       //8 bit
+    byte myByte = 255;                         //8 bit
+    char myChar = 'c';                         //16 bit
+    short myShort = 65;                        //16 bit
+    int myInt = -2147483647;                   //32 bits
+    uint myUint = 4294967294;                  //32 bits
+    float myFloat = 1.2345f;                   //32 bits
+    double myDouble = 1.2345;                  //64 bits
+    decimal myDecimal = (decimal)1.4444;       //128 bits
     }
 }
