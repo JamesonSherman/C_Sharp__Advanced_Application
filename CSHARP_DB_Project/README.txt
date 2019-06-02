@@ -1,4 +1,5 @@
-IMPLEMENT SERIALIZATION OF ABSTRACT DATA TYPES OF A SQLITE DATABASE ALTERNATIVE
+IMPLEMENT SERIALIZATION AND FUNCTIONALITY OF ABSTRACT DATA TYPES OF A SQLITE DATABASE ALTERNATIVE
+Context: First post graduate local code weekend project
 
 So this project is a implementation of an alternative SQLite block storage system. SQLite has issues regarding ineffiency, file size bloating
 as well as myriads of problemsin regards to data expiration values not existing. This can cause what is supposed to be a mini
