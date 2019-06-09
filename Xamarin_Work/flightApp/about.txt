@@ -1,0 +1,16 @@
+this is a current project in the making. This is a xamarin forms application that will be able to pin and select specific areas by 
+gps location. You will be able to mark notes about a specifc location via Latitude and Longitude and then display the pin via a map
+tab. 
+
+Current technologies used:
+SQLite
+Xamarin.Forms.
+Xamarin.Forms.Maps
+Mobile Permissions
+Google Developers MAPS API
+FourSquare Pin Location API
+
+
+Current Features Implemented:
+Current SQLite implementation is done.
+all entries 
