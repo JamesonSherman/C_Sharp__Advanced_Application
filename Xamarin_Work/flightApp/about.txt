@@ -6,6 +6,7 @@ Current technologies used:
 SQLite
 Xamarin.Forms.
 Xamarin.Forms.Maps
+NewtonSoft.JSON
 Mobile Permissions
 Google Developers MAPS API
 FourSquare Pin Location API
@@ -13,4 +14,14 @@ FourSquare Pin Location API
 
 Current Features Implemented:
 Current SQLite implementation is done.
-all entries 
+all entries for DB can be added, manipulated and deleted\
+Maps is up and running so gps location can be accessible
+Maps can pivot and follow with updated gps location
+Permissions for accessing fine and coarse location are done.
+
+
+TODO:
+add in map pins for significant local locations
+add in profile feature to house history of locations and favorite pins
+add in better password and login credential system.
+refact to make the permissions not be literally a heap of nested classes and methods.
