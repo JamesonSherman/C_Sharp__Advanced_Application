@@ -14,6 +14,3 @@ we can deserialize the data and pull out that specific byte block of data. Comme
 
 check problems with SQLite here:
 https://wiki.mozilla.org/Performance/Avoid_SQLite_In_Your_Next_Firefox_Feature
-
-check the system walk along here:
-https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database
