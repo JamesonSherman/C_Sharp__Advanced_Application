@@ -14,3 +14,6 @@ we can deserialize the data and pull out that specific byte block of data. Comme
 
 check problems with SQLite here:
 https://wiki.mozilla.org/Performance/Avoid_SQLite_In_Your_Next_Firefox_Feature
+
+foocore base can be gotten here:
+https://github.com/nam178/FooDB/tree/master/FooCore
