@@ -22,7 +22,8 @@ namespace enumeration_examples
     green = 4,
     green_arrow = 8
     }
-
+    
+    //the single vertical bar is a bitwise or
     LightColors c = LightColors.red | LightColors.green_arrow;
     
     Enums are great for lightweight state information

@@ -15,7 +15,7 @@ namespace c__db_system
         //string value that represents a location title
         public string location_Name {get; set;}
 
-        //over ridden to string that updates formatting and outputs values ina  specifc order
+        //over ridden to string that updates formatting and outputs values ina  specific order
         public override string ToString()
         {
             return string.Format("[Location_DataModel: ID = {0} Location Point = {1} Location Name = {2}]", ID, GPSPoint, location_Name);
