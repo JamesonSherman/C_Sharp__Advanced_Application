@@ -1,6 +1,6 @@
 common ADT operations
 
-accessing an elelment, either direct if possible or througha  searching process
+accessing an element, either direct if possible or through a searching process
 adding an element: to the beginning, to the end
 inserting an element
 update an element
