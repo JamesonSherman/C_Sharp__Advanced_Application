@@ -1,0 +1,15 @@
+common ADT operations
+
+accessing an elelment, either direct if possible or througha  searching process
+adding an element: to the beginning, to the end
+inserting an element
+update an element
+remove an element
+
+access by index O(1) - constant
+search (in unsorted array) O(n) - linear   [implies for loop]
+add element (to a full array) - O(n) [needs to be resized]
+add element (array has space) - O(1) [if you know index, otherwise O(n)]
+insert / Update at index - O(1) [if you know index, otherwise O(n)]
+remove an element by null-ing - O(1) [if you know index, otherwise O(n)]
+remove an element by shifting elements - O(n)  [needs to be resized]

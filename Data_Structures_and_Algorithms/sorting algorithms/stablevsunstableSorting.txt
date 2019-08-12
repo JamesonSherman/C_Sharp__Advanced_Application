@@ -1,0 +1,16 @@
+Stable vs Unstable Sorting
+if we have 
+5714581 as values sorted we get 1145567
+under normal stable sorting algorithms the order of movement is preserved meaning
+that the repeated values line up in order specificall with where there previous
+counterparts were
+(i.e. if value [0] is 5 then it will be the first 5 in memory in the new ordered
+list.)
+
+Unstable sorts do not preserve the relative order of sorting. 
+there is no difference in the specific order or values and it causes no harm
+but with objects with specific key identifiers it can cause incredible harm if the 
+specific value was in an original order (i.e. customers by alphabetical name etc)
+
+in majority of cases you want to avoid this unstable sort method
+
