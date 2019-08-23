@@ -1,0 +1,4 @@
+C:\Users\sherman\Desktop\c# job aquistion learning\heaps\heaps\obj\Debug\netcoreapp2.2\heaps.csprojAssemblyReference.cache
+C:\Users\sherman\Desktop\c# job aquistion learning\heaps\heaps\obj\Debug\netcoreapp2.2\heaps.csproj.CoreCompileInputs.cache
+C:\Users\sherman\Desktop\c# job aquistion learning\heaps\heaps\obj\Debug\netcoreapp2.2\heaps.AssemblyInfoInputs.cache
+C:\Users\sherman\Desktop\c# job aquistion learning\heaps\heaps\obj\Debug\netcoreapp2.2\heaps.AssemblyInfo.cs
