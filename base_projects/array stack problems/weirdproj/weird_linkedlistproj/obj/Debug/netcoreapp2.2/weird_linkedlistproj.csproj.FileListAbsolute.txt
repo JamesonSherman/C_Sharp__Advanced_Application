@@ -1,0 +1,11 @@
+C:\Users\sherman\Desktop\weirdproj\weird_linkedlistproj\bin\Debug\netcoreapp2.2\weird_linkedlistproj.deps.json
+C:\Users\sherman\Desktop\weirdproj\weird_linkedlistproj\bin\Debug\netcoreapp2.2\weird_linkedlistproj.runtimeconfig.json
+C:\Users\sherman\Desktop\weirdproj\weird_linkedlistproj\bin\Debug\netcoreapp2.2\weird_linkedlistproj.runtimeconfig.dev.json
+C:\Users\sherman\Desktop\weirdproj\weird_linkedlistproj\bin\Debug\netcoreapp2.2\weird_linkedlistproj.dll
+C:\Users\sherman\Desktop\weirdproj\weird_linkedlistproj\bin\Debug\netcoreapp2.2\weird_linkedlistproj.pdb
+C:\Users\sherman\Desktop\weirdproj\weird_linkedlistproj\obj\Debug\netcoreapp2.2\weird_linkedlistproj.csprojAssemblyReference.cache
+C:\Users\sherman\Desktop\weirdproj\weird_linkedlistproj\obj\Debug\netcoreapp2.2\weird_linkedlistproj.csproj.CoreCompileInputs.cache
+C:\Users\sherman\Desktop\weirdproj\weird_linkedlistproj\obj\Debug\netcoreapp2.2\weird_linkedlistproj.AssemblyInfoInputs.cache
+C:\Users\sherman\Desktop\weirdproj\weird_linkedlistproj\obj\Debug\netcoreapp2.2\weird_linkedlistproj.AssemblyInfo.cs
+C:\Users\sherman\Desktop\weirdproj\weird_linkedlistproj\obj\Debug\netcoreapp2.2\weird_linkedlistproj.dll
+C:\Users\sherman\Desktop\weirdproj\weird_linkedlistproj\obj\Debug\netcoreapp2.2\weird_linkedlistproj.pdb
