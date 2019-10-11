@@ -1,4 +1,4 @@
-public string RomanNum(int number)
+public static string RomanNum(int number)
 {
     if ((number < 0) || (number > 3999)) throw new ArgumentOutOfRangeException("insert value betwheen 1 and 3999");
     if (number < 1) return string.Empty;            
