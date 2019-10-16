@@ -19,9 +19,9 @@
  *
  * There are three types of generic delegates:
  *
- * Func
- * Action
- * Predicate
+ * Func  //System.Func<>  // func points to a method that returns a value
+ * Action //System.Action<>  //action points to a method that returns void
+ * Predicate //System.Predicate<> //predicate points to a method that returns a bool
  * 
  * use delegates where you have a eventing design pattern
  * or when the caller doesnt need to access other properties or methods on the object implementing the method.
