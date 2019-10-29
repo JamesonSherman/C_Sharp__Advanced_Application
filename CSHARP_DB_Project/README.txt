@@ -2,7 +2,7 @@ IMPLEMENT SERIALIZATION AND FUNCTIONALITY OF ABSTRACT DATA TYPES OF A SQLITE DAT
 Context: First post graduate local code weekend project
 
 So this project is a implementation of an alternative SQLite block storage system. SQLite has issues regarding ineffiency, file size bloating
-as well as myriads of problemsin regards to data expiration values not existing. This can cause what is supposed to be a mini
+as well as problems in regards to data expiration values not existing. This can cause what is supposed to be a mini
 implementation of SQL to be quite bloated and hard to traverse.
 
 This side project is a nifty implementation of an alternate DB using block copy architechture! We use FOOCORE for the necessity of having
@@ -14,6 +14,3 @@ we can deserialize the data and pull out that specific byte block of data. Comme
 
 check problems with SQLite here:
 https://wiki.mozilla.org/Performance/Avoid_SQLite_In_Your_Next_Firefox_Feature
-
-foocore base can be gotten here:
-https://github.com/nam178/FooDB/tree/master/FooCore
