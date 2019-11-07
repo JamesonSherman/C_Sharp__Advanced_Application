@@ -1,6 +1,6 @@
 public static string RomanNum(int number)
 {
-    if ((number < 0) || (number > 3999)) throw new ArgumentOutOfRangeException("insert value betwheen 1 and 3999");
+    if ((number < 0) || (number > 3999)) throw new ArgumentOutOfRangeException("insert value between 1 and 3999");
     if (number < 1) return string.Empty;            
     if (number >= 1000) return "M" + RomanNum(number - 1000);
     if (number >= 900) return "CM" + RomanNum(number - 900); 
