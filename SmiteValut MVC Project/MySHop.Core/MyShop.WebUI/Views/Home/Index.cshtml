@@ -1,0 +1,42 @@
+﻿@model MyShop.Core.ViewModels.ProductListViewModel
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h1> God List </h1>
+<h5>Guide to Gods</h5>
+<div class="col-md-2">
+    <h4>Filter by Category</h4>
+    <div class="list-group">
+        @Html.ActionLink("All", "Index", null, new { @class = Request["Category"] ==null ?"list-group-item active" : "list-group-item"})
+        @foreach(var cat in Model.ProductCategories)
+        {
+            @Html.ActionLink(cat.Category, "Index",new { Category = cat.Category}, new  {@class = Request["Category"] == cat.Category ?"list-group-item active" : "list-group-item" } )
+        }
+    </div>
+</div>
+<div class="col-md-10">
+
+    @foreach (var item in Model.Products)
+    {
+        <div class="col-md-4" style="height:450px; padding:10px; margin:10px; border: solid thin whitesmoke">
+            <div class="col-md-12">
+                <img class="img" style="height:100px" src="~/Content/ProductImages/@item.Image" />
+            </div>
+            <div class="col-md-12">
+                <strong>@Html.ActionLink(item.Name, "Details", new { id = item.ID })</strong>
+            </div>
+            <div class="col-md-12">
+                <p>@item.Description</p>
+            </div>
+            <div class="col-md-12">
+                <p>$@item.Price</p>
+            </div>
+            <div class="col-md-12">
+                <a href="@Url.Action("AddToBasket", "Basket", new { Id = item.ID })" class="btn btn-default"> Add to Build Template</a>
+            </div>
+        </div>
+    }
+</div>
+<div class="col-md-12 clearfix"/>
+

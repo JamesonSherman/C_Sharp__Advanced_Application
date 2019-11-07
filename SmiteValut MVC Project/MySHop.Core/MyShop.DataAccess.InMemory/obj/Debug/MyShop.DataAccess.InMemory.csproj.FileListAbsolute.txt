@@ -1,0 +1,9 @@
+Q:\Visual_Studio_Projects\Ecommerce\MySHop.Core\MyShop.DataAccess.InMemory\bin\Debug\MyShop.DataAccess.InMemory.dll
+Q:\Visual_Studio_Projects\Ecommerce\MySHop.Core\MyShop.DataAccess.InMemory\bin\Debug\MyShop.DataAccess.InMemory.pdb
+Q:\Visual_Studio_Projects\Ecommerce\MySHop.Core\MyShop.DataAccess.InMemory\bin\Debug\MyShop.Core.dll
+Q:\Visual_Studio_Projects\Ecommerce\MySHop.Core\MyShop.DataAccess.InMemory\bin\Debug\MyShop.Core.pdb
+Q:\Visual_Studio_Projects\Ecommerce\MySHop.Core\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.csprojAssemblyReference.cache
+Q:\Visual_Studio_Projects\Ecommerce\MySHop.Core\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.csproj.CoreCompileInputs.cache
+Q:\Visual_Studio_Projects\Ecommerce\MySHop.Core\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.csproj.CopyComplete
+Q:\Visual_Studio_Projects\Ecommerce\MySHop.Core\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.dll
+Q:\Visual_Studio_Projects\Ecommerce\MySHop.Core\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.pdb

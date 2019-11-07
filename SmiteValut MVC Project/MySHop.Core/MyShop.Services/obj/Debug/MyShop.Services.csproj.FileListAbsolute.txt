@@ -1,0 +1,9 @@
+Q:\Visual_Studio_Projects\Ecommerce\MySHop.Core\MyShop.Services\bin\Debug\MyShop.Services.dll
+Q:\Visual_Studio_Projects\Ecommerce\MySHop.Core\MyShop.Services\bin\Debug\MyShop.Services.pdb
+Q:\Visual_Studio_Projects\Ecommerce\MySHop.Core\MyShop.Services\obj\Debug\MyShop.Services.csprojAssemblyReference.cache
+Q:\Visual_Studio_Projects\Ecommerce\MySHop.Core\MyShop.Services\obj\Debug\MyShop.Services.csproj.CoreCompileInputs.cache
+Q:\Visual_Studio_Projects\Ecommerce\MySHop.Core\MyShop.Services\obj\Debug\MyShop.Services.dll
+Q:\Visual_Studio_Projects\Ecommerce\MySHop.Core\MyShop.Services\obj\Debug\MyShop.Services.pdb
+Q:\Visual_Studio_Projects\Ecommerce\MySHop.Core\MyShop.Services\bin\Debug\MyShop.Core.dll
+Q:\Visual_Studio_Projects\Ecommerce\MySHop.Core\MyShop.Services\bin\Debug\MyShop.Core.pdb
+Q:\Visual_Studio_Projects\Ecommerce\MySHop.Core\MyShop.Services\obj\Debug\MyShop.Services.csproj.CopyComplete

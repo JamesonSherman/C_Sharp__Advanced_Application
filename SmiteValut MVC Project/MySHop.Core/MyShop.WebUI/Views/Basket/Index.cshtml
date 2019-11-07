@@ -1,0 +1,45 @@
+﻿@model IEnumerable<MyShop.Core.ViewModels.BasketItemViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<table class="table">
+    <tr>
+        <th></th>
+        <th>
+            God Name
+        </th>
+        <th>
+            Price
+        </th>
+        <th>
+            Line Total
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td><img class="img" style="height:300px" src="~/Content/ProductImages/@item.Image" /></td>
+    <td>
+        @Html.DisplayFor(modelItem => item.ProductName)
+    </td>
+    <td>
+        @String.Format("{0:c}", item.price)
+    </td>
+    <td>
+        @String.Format("{0:c}",item.price * item.Quantity)
+    </td>
+    <td>
+        <a href="@Url.Action("RemoveFromBasket", "Basket", new {Id = item.Id })" class="btn btn-danger">Delete</a>
+    </td>
+</tr>
+}
+    <tr>
+        <td colspan="4" style="text-align:right"><strong>Selected Gods Total Price: </strong></td>
+        <td> @String.Format("{0:c}", (from p in Model select p.price * p.Quantity).Sum())</td>
+    </tr>
+</table>
