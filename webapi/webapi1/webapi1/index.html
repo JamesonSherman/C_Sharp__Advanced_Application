@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <script src="Scripts/jquery-2.2.3.min.js"></script>
+    <title></title>
+</head>
+<body>
+    <input type="text" id="searchID"/>
+    <button onclick="searchContact()">Search</button>
+
+    <button onclick="addContact()">Add Contact</button>
+    <button onclick="putContact()"> Change </button>
+    <button onclick="deleteContact()">Delete</button>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $.getJSON("api/contacts", function (result) {
+                console.info(result)
+            });
+        });
+
+    function searchContact() {
+        $.ajax({
+            type: "GET",
+            dataType: "json",
+            url: "api/contacts/" + $("#searchID").val(),
+            success: function (result) {
+                
+                console.info(result);
+            }
+        });
+            }
+
+    function addContact() {
+        var newContact = {
+            "ID": 0,
+            "FirstName": "Tony",
+            "LastName" : "Stark"
+        }
+        $.ajax({
+            type: "POST",
+            dataType: "json",
+            url: "api/contacts/",
+            data: newContact,
+            success: function (result) {
+                console.info(result);
+            }
+
+        });
+            }
+
+    function putContact() {
+        var changedContact = {
+             "FirstName": "Clark",
+            "LastName" : "Kent"
+        }
+        $.ajax({
+            type: "PUT",
+            dataType: "json",
+            url: "api/contacts/0",
+            data: changedContact,
+            success: function (result) {
+                console.info(result);
+            }
+        });
+            }
+
+    function deleteContact() {
+        $.ajax({
+             type: "DELETE",
+            dataType: "json",
+            url: "api/contacts/0",
+            success: function (result) {
+                console.info(result);
+            }
+        });
+    }
+    </script>
+
+</body>
+</html>
