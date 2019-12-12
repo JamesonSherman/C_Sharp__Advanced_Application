@@ -1,0 +1,11 @@
+Q:\Visual_Studio_Projects\Unit Testing\XUNITExample_1\XUNITExample_1\bin\Debug\netcoreapp2.2\XUNITExample_1.deps.json
+Q:\Visual_Studio_Projects\Unit Testing\XUNITExample_1\XUNITExample_1\bin\Debug\netcoreapp2.2\XUNITExample_1.runtimeconfig.json
+Q:\Visual_Studio_Projects\Unit Testing\XUNITExample_1\XUNITExample_1\bin\Debug\netcoreapp2.2\XUNITExample_1.runtimeconfig.dev.json
+Q:\Visual_Studio_Projects\Unit Testing\XUNITExample_1\XUNITExample_1\bin\Debug\netcoreapp2.2\XUNITExample_1.dll
+Q:\Visual_Studio_Projects\Unit Testing\XUNITExample_1\XUNITExample_1\bin\Debug\netcoreapp2.2\XUNITExample_1.pdb
+Q:\Visual_Studio_Projects\Unit Testing\XUNITExample_1\XUNITExample_1\obj\Debug\netcoreapp2.2\XUNITExample_1.csprojAssemblyReference.cache
+Q:\Visual_Studio_Projects\Unit Testing\XUNITExample_1\XUNITExample_1\obj\Debug\netcoreapp2.2\XUNITExample_1.AssemblyInfoInputs.cache
+Q:\Visual_Studio_Projects\Unit Testing\XUNITExample_1\XUNITExample_1\obj\Debug\netcoreapp2.2\XUNITExample_1.AssemblyInfo.cs
+Q:\Visual_Studio_Projects\Unit Testing\XUNITExample_1\XUNITExample_1\obj\Debug\netcoreapp2.2\XUNITExample_1.dll
+Q:\Visual_Studio_Projects\Unit Testing\XUNITExample_1\XUNITExample_1\obj\Debug\netcoreapp2.2\XUNITExample_1.pdb
+Q:\Visual_Studio_Projects\Unit Testing\XUNITExample_1\XUNITExample_1\obj\Debug\netcoreapp2.2\XUNITExample_1.csproj.CoreCompileInputs.cache
