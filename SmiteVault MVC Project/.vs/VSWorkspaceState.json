@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MySHop.Core",
+    "\\MySHop.Core\\MyShop.WebUI",
+    "\\MySHop.Core\\MyShop.WebUI\\Controllers"
+  ],
+  "SelectedNode": "\\MySHop.Core\\MyShop.WebUI\\Controllers\\ManageController.cs",
+  "PreviewInSolutionExplorer": false
+}
